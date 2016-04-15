@@ -41,3 +41,10 @@ Challenge 5  : From Feature Tests to Unit Tests
  	Set up the spec file to describe a DockingStation
  	Run RSpec from the Command Line
  	Explain to your pair partner the difference between this error and the error you saw before.
+
+Challenge 6  : Passing your first Unit Test
+        Create a new file for a Docking Station class, inside the /lib directory
+ 	Define a DockingStation class
+ 	Use require to include this file inside your spec file
+ 	Run RSpec from the Command Line
+ 	Explain to your pair partner the difference between what you see, and the error you saw before.
