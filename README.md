@@ -10,4 +10,5 @@ challenge 3  : From a Domain Model to a Feature Test
 	NameError: uninitialized constant DockingStation
             from (irb):1
 	    from /usr/share/rvm/rubies/ruby-2.2.2/bin/irb:11:in `<main>'
- 
+Challenge 4  : Errors are good
+        NameError: uninitialized constant DockingStation
