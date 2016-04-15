@@ -48,3 +48,20 @@ Challenge 6  : Passing your first Unit Test
  	Use require to include this file inside your spec file
  	Run RSpec from the Command Line
  	Explain to your pair partner the difference between what you see, and the error you saw before.
+
+Challenge 7  : Back to the feature
+        Start irb (or any other REPL) from the Command Line
+        Use require to include the file that contains the DockingStation class definition
+        Set a variable docking_station equal to a new DockingStation object
+ 	Explain to your pair partner why you do not see an error now, when you did before
+ 	Ask the docking_station instance to release_bike
+ 	Explain to your pair partner what the resulting error means.
+
+Challenge 8  : Back to the unit
+        Add a test to your spec file that expects DockingStation instances to respond_to the method release_bike
+ 	Rewrite this test using RSpec's one-liner syntax
+ 	Run RSpec from the Command Line
+ 	Explain the error to your pair partner
+ 	Add a method release_bike to the DockingStation class
+ 	Run RSpec from the Command Line
+ 	Explain to your pair partner the difference between what you see, and the error you saw before.
