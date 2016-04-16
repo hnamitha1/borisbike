@@ -47,4 +47,9 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
     Test that an Object responds to a Message<br/>
 
 ###Challenge 9  : <br/>   
-    Practice Learning Objectives from Challenges 3 – 8<br/> 
+    Practice Learning Objectives from Challenges 3 – 8<br/>
+
+###Challenge 10 :
+    Use Objects within other Objects
+    Use RSpec 'predicate' syntax
+    Pass a feature test     
