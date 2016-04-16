@@ -81,6 +81,9 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
 ###Challenge 16:
     Use a constant
 
-###Challenge 17
+###Challenge 17:
     Set an initial attribute value using initialize
     Set a default initialization value    
+
+###Challenge 18:
+    Implement a feature from scratch    
