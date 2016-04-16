@@ -73,3 +73,7 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
 ###Challenge 14:
     Set a complex attribute on an instantiated Object
     Set an initial attribute value using initialize          
+
+###Challenge 15:
+    Use the Single Responsibility Principle
+    Refactor code for readability
