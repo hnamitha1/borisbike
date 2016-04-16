@@ -2,13 +2,9 @@ Boris Bikes
 London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, anyone can hire out a bike and ride it around London. Bikes are located at Docking Stations dotted throughout the city.
 
 Challenge 1  : Setting up a project
-    Create a directory from the command line
-    Initialize a git repository within that directory
- 	Create a README.md file from the command line
- 	Write a clear README
- 	Add the README.md to the staging area
- 	Commit your changes with a clear message
- 	Push the project to Github.
+    - Set up a simple project
+    - Explain why a complete README is important
+    - Intialize and push a git project
 
 Challenge 2  : From User Stories to a Domain Model
     Write down all the nouns in the User Stories
