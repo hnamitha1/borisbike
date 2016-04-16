@@ -77,3 +77,6 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
 ###Challenge 15:
     Use the Single Responsibility Principle
     Refactor code for readability
+
+###Challenge 16:
+    Use a constant
