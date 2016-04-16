@@ -58,4 +58,9 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
     Write RSpec tests that require arguments
     Pass an instance as an argument
     Set an attribute on an instantiated Object using an @ instance variable
-    Use attr_reader to read an attribute on an instantiated Object    
+    Use attr_reader to read an attribute on an instantiated Object 
+
+###Challenge 12:
+    Write RSpec tests that expect errors
+    Use fail or raise to raise an error
+    Use a 'guard condition'       
