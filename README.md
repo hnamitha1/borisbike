@@ -1,8 +1,9 @@
 Boris Bikes 
 London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, anyone can hire out a bike and ride it around London. Bikes are located at Docking Stations dotted throughout the city.
+
 Challenge 1  : Setting up a project
-        Create a directory from the command line
- 	Initialize a git repository within that directory
+    Create a directory from the command line
+    Initialize a git repository within that directory
  	Create a README.md file from the command line
  	Write a clear README
  	Add the README.md to the staging area
@@ -10,20 +11,22 @@ Challenge 1  : Setting up a project
  	Push the project to Github.
 
 Challenge 2  : From User Stories to a Domain Model
-        Write down all the nouns in the User Stories
+    Write down all the nouns in the User Stories
  	Write down all the verbs in the User Stories
  	Draw a table like the one above
  	Organise the nouns and verbs into Objects and Messages within the table
  	Draw a diagram that shows how your Objects will use Messages to communicate with one another
+
 	Bike <-- working? --> true/false
 	DockingStation <-- release_bike --> a Bike
 
 Challenge 3  : From a Domain Model to a Feature Test 
-        Start irb (or any other REPL) from the Command Line
-        Set a variable docking_station equal to a new DockingStation object
-        Explain to your pair partner what the resulting error means
+    Start irb (or any other REPL) from the Command Line
+    Set a variable docking_station equal to a new DockingStation object
+    Explain to your pair partner what the resulting error means
+
         2.2.2 :001 > station = DockingStation.new
-	NameError: uninitialized constant DockingStation
+	     NameError: uninitialized constant DockingStation
             from (irb):1
 	    from /usr/share/rvm/rubies/ruby-2.2.2/bin/irb:11:in `<main>'
 
