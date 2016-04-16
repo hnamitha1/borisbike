@@ -66,7 +66,10 @@ London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, an
     Use a 'guard condition'   
 
 ###Challenge 13:
+    Write RSpec tests that expect errors
+    Use fail or raise to raise an error
+    Use a 'guard condition 
 
-Write RSpec tests that expect errors
-Use fail or raise to raise an error
-Use a 'guard condition        
+###Challenge 14:
+    Set a complex attribute on an instantiated Object
+    Set an initial attribute value using initialize          
