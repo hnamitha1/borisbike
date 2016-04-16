@@ -1,10 +1,10 @@
 Boris Bikes 
 London's Boris Bikes (well, 'Santander Cycles') are awesome. For a small fee, anyone can hire out a bike and ride it around London. Bikes are located at Docking Stations dotted throughout the city.
 
-Challenge 1  : Setting up a project
-    - Set up a simple project
-    - Explain why a complete README is important
-    - Intialize and push a git project
+Challenge 1  : Setting up a project<br />
+    - Set up a simple project<br />
+    - Explain why a complete README is important<br />
+    - Intialize and push a git project<br />
 
 Challenge 2  : From User Stories to a Domain Model
     Write down all the nouns in the User Stories
